@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text> 3º info 2024</Text>
+      <Text> 3º Info 2024</Text>
       <Text style={{ fontWeight: 'bold'}}>Etec Professor Milton Gazzetti</Text>
       <Text style={{ fontStyle: 'italic'}}>Desenvolvimento para Dispositivos Móveis 2</Text>
       <StatusBar style="auto" />
